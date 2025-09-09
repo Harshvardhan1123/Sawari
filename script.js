@@ -834,8 +834,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p><b>Start:</b> ${start}</p>
                     <p><b>Destination:</b> ${end}</p>
                     <p><b>Best Route:</b> Bus 112 → Central Depot → Bus 215 → ${end}</p>
-                    <p><b>Approx Time:</b> 35 mins</p>
-                    <p><b>Cost:</b> ₹25</p>
+                    <p><b>Approx Time:</b> 4:30</p>
+                    <p><b>Cost:</b> ₹300</p>
                 </div>
             `;
 
