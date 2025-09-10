@@ -23,6 +23,4 @@ Track your bus in real-time, plan your transit using our AI-powered planner, and
 - AI Planner: Custom model or third-party NLP
 - Notifications: Push / Email / SMS integrations
 
-## Contributing
-- Feel free to fork, implement features, or propose enhancements
-- Use the issue tracker for bugs or support
+
